@@ -4,11 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
--  👀 I am an IT frosh at Vellore Institute of Technology.**
+-  👀 I am an IT frosh at Vellore Institute of Technology.
 
 - 🌱 current goals are **to be a full stack web developer.**
 
-- 💞️ I’m looking to collaborate on projects**
+- 💞️ I’m looking forward to collaborate on projects
 
 - 📫 You can reach me at **Email : k.preeti1002@gmail.com**
 
