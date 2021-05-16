@@ -1,4 +1,4 @@
-
+![Hodor  Because “Hello World” is too mainstream](https://user-images.githubusercontent.com/84238610/118381429-637c0d80-b608-11eb-8bd8-daed45fcd2ab.jpg)
 <h1 align="center">Hi 👋, I'm Preeti</h1>
 <h3 align="center">an exuberant tech enthusiast trying to understand the binary !</h3>
 
