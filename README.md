@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
--  👀 I am an IT somophore at Vellore Institute of Technology.
+-  👀 I am an IT senior at Vellore Institute of Technology.
 
 - 🌱 current goals are **to be a full stack web developer.**
 
